@@ -1,3 +1,5 @@
+1o TESTE 
+
 ## Welcome to LIA ARY DANCE STUDIO development 
 
 You can use the [editor on GitHub](https://github.com/thybiz/ladance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
