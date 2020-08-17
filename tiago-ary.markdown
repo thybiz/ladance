@@ -1,6 +1,7 @@
 ---
 title: Tiago Ary
 date: 2020-08-16 22:27:00 -03:00
+position: 2
 ---
 
 **Tiago Ary** is beautiful. \
