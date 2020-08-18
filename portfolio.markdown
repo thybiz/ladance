@@ -8,6 +8,10 @@ Esta página será do \*\*Portfolio \*\*de fotos
 
 ## Entendeu ????
 
-# Ok\
+# Ok\\
+
+Ok2\
 \
-Ok2
+\
+\
+![71u8VKAEO4L._AC_UX679_-583c7b.jpg](/uploads/71u8VKAEO4L._AC_UX679_-583c7b.jpg)
