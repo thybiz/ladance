@@ -7,4 +7,8 @@ position: 0
 Sobre nós \
 Olá \
 About Us\
-**Canada**
+**Canada**\
+OLÁ TIAGO \
+CANADÁ 
+
+GO CLIPPERS 
