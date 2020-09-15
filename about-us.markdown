@@ -9,6 +9,6 @@ Olá \
 About Us\
 **Canada**\
 OLÁ TIAGO \
-CANADÁ 
+CANADÁ
 
-GO CLIPPERS 
+**"**![jair_bolsonaro_png_by_vjkallew-dcj3piu  paint.png](/uploads/jair_bolsonaro_png_by_vjkallew-dcj3piu%20%20paint.png)**GO CLIPPERS"**
